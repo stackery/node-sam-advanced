@@ -1,2 +1,1 @@
-stack-name: node10-sam-advanced
-template-path: template.yaml
+stack-name: node-sam-advanced
